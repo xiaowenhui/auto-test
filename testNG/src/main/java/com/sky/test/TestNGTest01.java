@@ -6,6 +6,6 @@ package com.sky.test;
 public class TestNGTest01 {
 
     public void test(){
-        System.out.println("HelloWorld!111213");
+        System.out.println("HelloWorld!11111213");
     }
 }
